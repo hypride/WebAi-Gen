@@ -1,7 +1,8 @@
 # WebAi-Gen (v1.0)
 <p align="center">
-  <img src="https://github.com/hackerstore/WebAi-Gen/blob/main/img/New%20Project%20(1).jpg">
+  <img src="https://github.com/hackerstore/WebAi-Gen/raw/main/img/New%20Project%20(1).jpg">
 </p>
+
 
 # :fire: Features:
 > These functions will become available in the builder only if you have autorun enabled.

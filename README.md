@@ -5,9 +5,9 @@
 
 # :desktop_computer: About:
 
-* <p>An Ai Based Web Development Tool</p>
-* <p>Written in Python.</p>
-* <p>Author : [Nazimcp](https://instagram.com/nazimcp7)</p>
+* An Ai Based Web Development Tool
+* Written in Python.
+* Author : [Nazimcp](https://instagram.com/nazimcp7)
 
 # :hammer: Builder:
 <p align="center">

@@ -1,23 +1,17 @@
-# WebAi-Gen (v1.0)
+# WebAi-Gen (Beta) (v1.0)
 <p align="center">
   <img src="https://github.com/hackerstore/WebAi-Gen/raw/main/img/New%20Project%20(1).jpg">
 </p>
 
+# :desktop_computer: About:
 
-# :fire: Features:
-> These functions will become available in the builder only if you have autorun enabled.
-* **:musical_keyboard: Keylogger:**
-  * The keylogger will turn on if the user is texting in the chat or using the bank's website.
-* **:clipboard: Clipper:**
-  * Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.
-* **:camera: Webcam screenshots:**
-  * Webcam screenshots will be taken if the user is watching something obscene on the Internet.
+* <p>An Ai Based Web Development Tool</p>
+* <p>Written in Python.</p>
+* <p>Author : [Nazimcp](https://instagram.com/nazimcp7)</p>
 
 # :hammer: Builder:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73314940/165985151-6f74dd66-c9d8-4063-a3e2-fe80d4a4f34a.png">
 </p>
 
-Ai Based Website Builder..
-
-Author: nazimcp
+Give Me A Star...

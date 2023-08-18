@@ -10,7 +10,8 @@ def personal():
 	personal_theme_list = ['os.system("cd theme/DataSec && python main.py")', 'os.system("cd theme/ColorLib && python main.py")']
 	exec(random.choice(personal_theme_list))
 
-
+def company():
+	os.system("cd theme/ComData && python main.py")
 
 def main():
 	print("==================================================")
@@ -27,10 +28,7 @@ def main():
 	if input1 == "1":
 		personal()
 	elif input1 == "2":
-		print("Not Working... Coming Soon..")
-		print("Return in 5 second")
-		time.sleep(5)
-		main()
+		company()
 	elif input1 == "3":
 		print("Not Working... Coming Soon..")
 		print("Return in 5 second")

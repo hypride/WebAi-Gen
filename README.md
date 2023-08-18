@@ -14,6 +14,15 @@
 * 1 Models Are Trained at Company Section
 * 0 Models Are Trainer at Internet Forum Section
 
+# :electric_plug: Usage:
+* Clone this repository
+* Open CMD `python main.py`
+* Use and enjoy it.
+* For the output go to folder called theme the choose the folder of your theme
+
+# :dependabot: Want to train an Ai?
+* If you wish to train an Ai Contact Me
+
 # :hammer: Builder:
 <p align="center">
   <img src="https://github.com/hackerstore/WebAi-Gen/raw/main/img/Capture.JPG">

@@ -2,6 +2,7 @@ import time
 import requests
 import wget
 import os
+import shutil
 from zipfile import ZipFile
 
 
@@ -583,7 +584,7 @@ if y_or_n == "y":
 	text_file = open("index.html", "w")
 	text_file.write(xxx)
 	text_file.close()
-	
+
 
 	time.sleep(2)
 

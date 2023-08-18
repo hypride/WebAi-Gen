@@ -5,6 +5,20 @@ import time
 import pyfiglet
 
 
+output = "Output"
+
+location = os.getcwd()
+
+folder_chk = os.getcwd()
+final = folder_chk + "/Output"
+isdir = os.path.isdir(final)
+if isdir is False:
+	os.mkdir(final)
+else:
+	print("==================================================")
+
+
+
 
 def personal():
 	personal_theme_list = ['os.system("cd theme/DataSec && python main.py")', 'os.system("cd theme/ColorLib && python main.py")']

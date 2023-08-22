@@ -21,11 +21,11 @@ else:
 
 
 def personal():
-	personal_theme_list = ['os.system("cd theme/DataSec && python main.py")', 'os.system("cd theme/ColorLib && python main.py")']
+	personal_theme_list = ['os.system("cd theme/DataSec && python main_obfu.py")', 'os.system("cd theme/ColorLib && python main_obfu.py")']
 	exec(random.choice(personal_theme_list))
 
 def company():
-	os.system("cd theme/ComData && python main.py")
+	os.system("cd theme/ComData && python main_obfu")
 
 def main():
 	print("==================================================")

@@ -16,8 +16,10 @@
 
 # :electric_plug: Usage:
 * Clone this repository
-* Open CMD `python main.py`
-* Use and enjoy it.
+* Open CMD on the current
+* `python main.py`
+* `pip install -r requirements.txt`
+* Use it and enjoy it.
 * For the output go to folder called theme the choose the folder of your theme
 
 # :dependabot: Want to train an Ai?

@@ -25,7 +25,7 @@ def personal():
 	exec(random.choice(personal_theme_list))
 
 def company():
-	os.system("cd theme/ComData && python main_obfu")
+	os.system("cd theme/ComData && python main_obfu.py")
 
 def main():
 	print("==================================================")

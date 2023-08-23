@@ -34,6 +34,7 @@ def main():
 	print(banner)
 	print("==================================================")
 	print("Developed By Nazim Cp")
+	print("==================================================")
 	time.sleep(2)
 	print("Ai: Hello, Select your theme..")
 	print("1] Personal Websites")

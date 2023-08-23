@@ -2,6 +2,7 @@ import os
 import math
 import random
 import time
+import webbrowser
 import pyfiglet
 
 
@@ -32,11 +33,13 @@ def main():
 	banner = pyfiglet.figlet_format("WebAi - Gen")
 	print(banner)
 	print("==================================================")
+	print("Developed By Nazim Cp")
 	time.sleep(2)
 	print("Ai: Hello, Select your theme..")
 	print("1] Personal Websites")
 	print("2] Company Websites")
 	print("3] Internet forum")
+	print("4] Developer Info")
 	print("----Exit----")
 	input1 = input("Enter Your Option: ")
 	if input1 == "1":
@@ -50,6 +53,9 @@ def main():
 		main()
 	elif input1 == "exit":
 		exit()
+	elif input1 == "4":
+		webbrowser.open('https://instagram.com/nazimcp7')
+
 	else :
 		main()
 

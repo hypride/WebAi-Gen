@@ -14,6 +14,9 @@
 * 1 Models Are Trained at Company Section
 * 0 Models Are Trainer at Internet Forum Section
 
+# Read the mannual before use it
+* [Click here for read the manual](https://github.com/hypride/WebAi-Gen/tree/main/manual)
+
 # :electric_plug: Usage:
 * Clone this repository
 * Open CMD on the current

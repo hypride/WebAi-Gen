@@ -14,7 +14,7 @@
 * 1 Models Are Trained at Company Section
 * 0 Models Are Trainer at Internet Forum Section
 
-# Read the mannual before use it
+# :open_book: Read the mannual before use it
 * Don't use to tools before reading the manual!!!
 * [Click here for read the manual](https://github.com/hypride/WebAi-Gen/tree/main/manual)
 

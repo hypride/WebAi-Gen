@@ -1,29 +1,107 @@
-# WebAi-GEN Manual
+# WebAi-GEN (Manual)
 
-This repository is the official documentation for Deno, and it's available at:
-https://deno.land/manual
+If you plan to make a website using this tool
+We need this datas
 
-## Contributing
+## Model 1 (ColorLib)
 
-1. Clone this project and `dotland` in the same parent folder:
-
-```
-git clone https://github.com/denoland/manual.git
-git clone https://github.com/denoland/dotland.git
-```
-
-2. Move into the `dotland` folder, and run the following command to start the
-   local `deno.land` website with the local manual contents:
+* Theme : ColorLib
+* The WebAi-GEN Will ask this questions in the colorlib theme.
 
 ```
-cd dotland
-MANUAL_PATH=../manual deno task start
+Your Name
+Your Full Name
+Your Job
+Your other Job
+	
+	
+Your Image Link
+A Small About Note
+Your Skill 
+Your Skill Percent (Out of 100)
+Your Second Skill
+Your Second Skill Percent (Out of 100)
+Your Third Skill
+Your Third Skill Percent (Out of 100)
+	
+	
+Your First Service 
+A Small Note for It 
+Your Second Service 
+A Small Note for It 
+Your Thrid Service 
+A Small Note for It 
+	
+	
+Number of happy coustmer in your service
+Number of your completed projects
+Number of your line of code 
+	
+	
+Image of the First Person(Link ends With .jpg, .png) 
+Name of the first User 
+Words Of the first person
+Job Of the first person 
+Image of the Second Person(Link ends With .jpg, .png) 
+Name of the Second User 
+Words Of the second person 
+Job Of the Second person 
+Image of the Thrid Person(Link ends With .jpg, .png) 
+Name of the Thrid User 
+Words Of the Thrid person 
+	
+	
+Your Address
+Your Email
+Your Phone Number
+Your Telegram Link To Contact 
+Your Facebook Link 
+Your Youtube Link 
+Your Twitter Link 
+Your Instagram Link 
+Your Linked In Link 
+Your CV Downloading Link 
 ```
 
-When opening a PR, make sure the code is formatted correctly. To format the
-code:
+## Model 2 (DataSec)
 
-1. Install Deno (https://deno.land/#installation)
-2. Run `deno fmt` at the root of this repository
+* Theme : DataSec
+* The WebAi-GEN Will ask this questions in the datasec theme.
 
-Before creating new pages, open an issue and discuss the proposed changes.
+```
+    Your name
+	Your fullname
+	Your Job
+	A Short about you
+	
+	
+    Your First Service 
+	A Small Note for It 
+	Your Second Service 
+	A Small Note for It 
+	Your Thrid Service 
+	A Small Note for It 
+	Your Fourth Service 
+	A Small Note for It
+	
+	
+	Image of the First Person(Link ends With .jpg, .png) 
+	Name of the first User 
+	Words Of the first person 
+	Image of the First Person(Link ends With .jpg, .png) 
+	Name of the first User 
+	Words Of the first person 
+	Image of the First Person(Link ends With .jpg, .png) 
+	Name of the first User
+	Words Of the first person 
+	
+	
+	
+	Your Telegram Link To Contact 
+	Your Facebook Link 
+	Your Youtube Link 
+	Your Instagram Link 
+	Your Linked In Link 
+	Your CV Downloading Link 
+```
+

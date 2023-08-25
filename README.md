@@ -26,7 +26,7 @@
 * Use it and enjoy it.
 * For the output go to folder called theme the choose the folder of your theme
 
-# :dependabot: Want to train an Ai?
+# :dna: Want to train an Ai?
 * If you wish to train an Ai Contact Me
 
 # :hammer: Builder:

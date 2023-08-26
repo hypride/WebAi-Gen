@@ -105,3 +105,62 @@ Your Linked In Link
 Your CV Downloading Link 
 ```
 
+
+## Model 3 (ComData)
+
+* Theme : ComData
+* The WebAi-GEN Will ask this questions in the comdata theme.
+
+```
+Your Company Name 
+Your Slogon
+Your Company Main Keyword
+Main Heading of the Website
+Sub Heading of the Website
+A Small Short Note About Your Company
+The Percentage rate of Satisfied Clients (100)
+The Percentage rate of Unsatisfied Clients (100)
+	
+	
+Your First Service 
+A Small Note for It 
+Your Second Service 
+A Small Note for It 
+Your Thrid Service 
+A Small Note for It 
+Your Fourth Service 
+A Small Note for It 
+	
+	
+	
+Image of the First Person(Link ends With .jpg, .png) 
+Name of the first User 
+Words Of the first person 
+Image of the First Person(Link ends With .jpg, .png) 
+Name of the first User 
+Words Of the first person 
+Image of the First Person(Link ends With .jpg, .png) 
+Name of the first User 
+Words Of the first person 
+	
+	
+	
+FAQ First Question
+FAQ First Answer 
+FAQ First Question 
+FAQ Second Answer 
+FAQ First Question 
+FAQ Thrid Answer 
+	
+	
+	
+Your Contact Main Contact Link
+Your Facebook Link 
+Your Twitter Link
+Your Youtube Link 
+Your Instagram Link 
+Your Email 
+Your Address 
+Your Phone Number
+```
+

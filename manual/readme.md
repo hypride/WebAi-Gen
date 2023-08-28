@@ -3,6 +3,8 @@
 If you plan to make a website using this tool
 We need this datas
 
+## Personal Website Models
+
 ## Model 1 (ColorLib)
 
 * Theme : ColorLib
@@ -105,6 +107,7 @@ Your Linked In Link
 Your CV Downloading Link 
 ```
 
+## Company Website Models
 
 ## Model 3 (ComData)
 
